@@ -12,5 +12,5 @@ hello jxnu! hello git!
 hello jxnu! hello git!
 hello jxnu! hello git!
 hello jxnu! hello git!
-hello jxnu! hello git!  master tets
-hello jxnu! hello git!
+hello jxnu! hello git!  master test
+hello jxnu! hello git! hot-fix text
